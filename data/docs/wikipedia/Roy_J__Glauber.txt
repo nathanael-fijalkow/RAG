@@ -1,0 +1,47 @@
+Roy Jay Glauber (September 1, 1925 – December 26, 2018) was an American theoretical physicist. He was the Mallinckrodt Professor of Physics at Harvard University and Adjunct Professor of Optical Sciences at the University of Arizona. Born in New York City, he was awarded one half of the 2005 Nobel Prize in Physics "for his contribution to the quantum theory of optical coherence", with the other half shared by John L. Hall and Theodor W. Hänsch. In this work, published in 1963, he created a model for photodetection and explained the fundamental characteristics of different types of light, such as laser light (see coherent state) and light from light bulbs (see blackbody). His theories are widely used in the field of quantum optics. In statistical physics he pioneered the study of the dynamics of first-order phase transitions, since he first defined and investigated the stochastic dynamics of an Ising model in a paper published in 1963.  
+He served on the National Advisory Board of the Center for Arms Control and Non-Proliferation, the research arm of Council for a Livable World. 
+
+
+== Education ==
+Glauber was born in 1925 in New York City the son of Felicia (Fox) and Emanuel B. Glauber. He was a member of the 1941 graduating class of the Bronx High School of Science, the first graduating class from that school.  He then did his undergraduate work at Harvard University. 
+After his sophomore year, he was recruited to work on the Manhattan Project, where (at the age of 18) he was one of the youngest scientists at Los Alamos National Laboratory. His work involved calculating the critical mass for the atom bomb. After two years at Los Alamos, he returned to Harvard, receiving his bachelor's degree in 1946 and his PhD in 1949.
+
+
+== Research ==
+Glauber's research dealt with problems in a number of areas of quantum optics, a field which, broadly speaking, studies the quantum electrodynamical interactions of light and matter. He also continued work on several topics in high-energy collision theory, including the analysis of hadron collisions, and the statistical correlation of particles produced in high-energy reactions.
+Roy Glauber’s early work on multiple scattering theory started in the 1950s and was continued with his students, such as Victor Franco.
+Specific topics of his research included: the quantum mechanical behavior of trapped wave packets; interactions of light with trapped ions; atom counting-the statistical properties of free atom beams and their measurement; algebraic methods for dealing with fermion statistics; coherence and correlations of bosonic atoms near the Bose–Einstein condensation; the theory of continuously monitored photon counting-and its reaction on quantum sources; the fundamental nature of "quantum jumps"; resonant transport of particles produced multiply in high-energy collisions; the multiple diffraction model of proton-proton and proton-antiproton scattering.
+
+
+== Awards and honors ==
+Glauber received the Albert A. Michelson Medal from the Franklin Institute in Philadelphia (1985), the Max Born Award from the Optical Society of America (1985), the Dannie Heineman Prize for Mathematical Physics from the American Physical Society (1996), and shared the 2005 Nobel Prize in Physics. Glauber was awarded the 'Medalla de Oro del CSIC' ('CSIC's Gold Medal') in a ceremony held in Madrid, Spain. He was elected a Foreign Member of the Royal Society (ForMemRS) in 1997.
+Glauber was awarded half the 2005 Nobel prize, along with experimentalists John Hall and Theodor Hänsch, recognized for their work on precision spectroscopy.
+
+
+=== Ig Nobel ===
+For many years before winning his Nobel Prize, Glauber took part in the Ig Nobel Prize ceremonies, where he appeared each year as "Keeper of the Broom," sweeping the stage clean of the paper airplanes that have traditionally been thrown during the event.  He missed the 2005 event as he was being awarded the Nobel Prize for Physics.
+
+
+== Personal life ==
+Glauber's father was a traveling salesman. When Glauber was six years of age, his mother gave birth to his sister, and the family settled in the New York City area. Glauber was very interested in astronomy as a child. In December 1937, along with several other children, he gave a presentation at the American Museum of Natural History in New York City, about a reflecting telescope he had built on his own. The assistant to the director of the Hayden Planetarium, Dorothy Bennett, was present; she was a lecturer at the planetarium. Bennett was impressed with Glauber's work and she encouraged his membership and subsequent activity in an extra-curricular group for astronomy for the next few years. Glauber said she was "an influence in my life" and "a truly extraordinary spirit".  After his work at Los Alamos, he visited her at her home, as she had moved to Taos, New Mexico.
+Glauber lived in Arlington, Massachusetts. He was a guest scientist at the European Organization for Nuclear Research (CERN) in 1967, during a sabbatical. In 1951, he became a temporary lecturer at the California Institute of Technology, where he replaced Richard Feynman.
+Glauber had a son and a daughter, and five grandchildren. He died on December 26, 2018, in Newton, Massachusetts.  He was one of the last surviving witnesses to the Trinity nuclear test.  He was buried in Kensico Cemetery, Valhalla, New York.
+
+
+== Memoirs ==
+A book by quantum physicist José Ignacio Latorre and M.T. Soto-Sanfiel contains Roy J. Glauber's memoirs of the Manhattan Project and aspects of his scientific and personal life, based on a series of interviews conducted in Singapore, Spain, and the U.S. It has been published in English and Spanish.  The same authors produced a documentary of the same name, "That's the Story: Roy J. Glauber Remembers the Making of the Atomic Bomb" featuring Glauber recounting some of his experiences within the Manhattan Project 
+
+
+== See also ==
+Coherent state
+Glauber multiple scattering theory
+
+
+== References ==
+
+
+== External links ==
+
+Audio Interview with Roy Glauber by Owen Gingerich 12 September 2005, Voices of the Manhattan Project, Atomic Heritage Foundation
+Glauber States: Coherent states of Quantum Harmonic Oscillator Archived 2013-01-25 at the Wayback Machine
+Roy J. Glauber, Harvard Physics Department faculty website, 2012

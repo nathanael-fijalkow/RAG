@@ -1,0 +1,33 @@
+Albert Fert (French: [albɛʁ fɛʁ]; born 7 March 1938) is a French physicist and one of the discoverers of giant magnetoresistance which brought about a breakthrough in gigabyte hard disks. Currently, he is an emeritus professor at Paris-Saclay University in Orsay, scientific director of a joint laboratory (Unité mixte de recherche) between the Centre national de la recherche scientifique (National Scientific Research Centre) and Thales Group, and adjunct professor at Michigan State University. He was awarded the 2007 Nobel Prize in Physics together with Peter Grünberg.
+
+
+== Biography ==
+In 1962 Albert Fert graduated from the École Normale Supérieure in Paris, where he attended courses by the physicists Alfred Kastler and Jacques Friedel.  (As an undergraduate he had strong interests in photography and cinema, and was a great admirer of the work of Ingmar Bergman.)
+After the École Normale Supérieure, Fert attended the University of Grenoble and in 1963 received his Ph.D. (doctorat de troisième cycle) from the University of Paris with a thesis prepared in the fundamental electronic Orsay Faculty of Sciences and in the physical spectrometry laboratory of the University of Grenoble Faculty of Sciences.
+On his return from military service in 1965, Fert became assistant professor at the Orsay Faculty of Sciences of the University of Paris XI (Université Paris-Sud). Under the direction of Ian Campbell at the Laboratory of Solid Physics he prepared for a doctorate Sc.D. (doctorat des sciences) in Physical Sciences on the electrical transport properties of nickel and iron, which he completed in 1970. He was named professor in 1976.
+Fert worked as research director for the university's condensed-matter physics laboratory (1970–1995) prior to moving to Unité Mixte de Physique, a laboratory jointly run by the Université Paris-Sud and the technology company Thales.
+In 1988, Albert Fert at Orsay in France, and Peter Gruenberg at Jülich in Germany, simultaneously and independently discovered giant magnetoresistance (GMR) in magnetic multilayers. This discovery is considered to mark the birth of spintronics, a new subfield of electronics that exploits not only the electric charge of the electrons but also their magnetism (associated with their intrinsic angular momentum, or spin). Spintronics has already contributed important applications; the introduction of GMR read heads in hard disks has led to a considerable increase in the density of information storage. Other spintronic properties are exploited in magnetic random access memory (MRAM), which may soon impact computer and phone technology. In 2007, Fert and Prof. Grünberg jointly received the Japan Award (300.000 Euro) for their discovery of GMR. 
+In October 2006, Professor Fert received an honorary doctorate from the Department of Physics of the University of Kaiserslautern.
+Fert has made many contributions to the development of spintronics.  Following his 2007 Nobel Prize, he began to explore possible spintronics applications of topological properties at surfaces and interfaces. His most recent works are on the topologically protected magnetic solitons called skyrmions and on the conversion between charge current and spin current by topological insulators.
+
+
+== Honors and awards ==
+American Physical Society's International Prize for New Materials (1994)
+Grand prix de physique Jean Ricard of the French Physical Society (1994)
+International Union of Pure and Applied Physics (IUPAP) Magnetism Award (1994)
+Hewlett-Packard Europhysics Prize (1997)
+Centre National de la Recherche Scientifique Gold Medal (2003)
+Gutenberg Lecture Award (2006)
+Wolf Prize in Physics (2006)
+Japan Prize (2007)
+Elected to the French Academy of Sciences in 2004
+Nobel Prize in Physics (2007)
+Gay-Lussac Humboldt Award (2014)
+
+
+== References ==
+
+
+== External links ==
+Unité Mixte de Physique CNRS/Thales official website
+Albert Fert on Nobelprize.org

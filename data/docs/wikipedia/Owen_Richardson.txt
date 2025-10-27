@@ -1,0 +1,72 @@
+Sir Owen Willans Richardson (26 April 1879 – 15 February 1959) was a British physicist who received the Nobel Prize in Physics in 1928 for his work on thermionic emission and for the discovery of Richardson's law.
+
+
+== Biography ==
+
+
+=== Education ===
+Owen Willans Richardson was born on 26 April 1879 in Dewsbury, England, the son of Joshua Henry Richardson and Charlotte Maria Willans. He was educated at Batley Grammar School and Trinity College, Cambridge, where he gained First Class Honours in Natural Science in 1900 and was elected a Fellow in 1902. He obtained a D.Sc. from University College London in 1904.
+
+
+=== Career and research ===
+In 1900, Richardson began researching the emission of electricity from hot bodies in the Cavendish Laboratory at Cambridge. The following year, he demonstrated that the current from a heated wire seemed to depend exponentially on the temperature of the wire with a mathematical form similar to the Arrhenius equation. This became known as Richardson's law: "If then the negative radiation is due to the electrons coming out of the metal, the saturation current s should obey the law 
+  
+    
+      
+        s
+        =
+        A
+        
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        
+        
+          e
+          
+            −
+            b
+            
+              /
+            
+            T
+          
+        
+      
+    
+    {\displaystyle s=A\,T^{1/2}\,e^{-b/T}}
+  
+."
+In 1906, Richardson was appointed Professor of Physics at Princeton University, a position he held until 1913. The following year, he returned to England to become Wheatstone Professor of Physics at King's College London, where he was later made Director of Research in 1924.  In 1927, he was one of the participants of the fifth Solvay Conference on Physics that took place at the International Solvay Institute for Physics in Belgium. He retired from King’s College in 1944.
+Richardson also researched the photoelectric effect, the gyromagnetic effect, the emission of electrons by chemical reactions, soft X-rays, and the spectrum of hydrogen.
+Richardson died on 15 February 1959 in Alton at the age of 79. He is buried in Brookwood Cemetery in Surrey.
+
+
+== Family ==
+In 1906, Richardson married Lilian Maud Wilson, the sister of his Cavendish colleague, Harold Albert Wilson; they had two sons and a daughter.
+Richardson had two sisters: Elizabeth Mary Dixon Richardson, who married the prominent mathematician Oswald Veblen; and Charlotte Sara Richardson, who married the American physicist (and 1937 Nobel laureate in Physics) Clinton Davisson, who was Richardson's Ph.D. student at Princeton. After Lilian's death in 1945, he was remarried in 1948 to Henriette Rupp, a physicist.
+Richardson had a son, Harold Owen Richardson, who specialised in nuclear physics and was also the chairman of the Physics Department at Bedford College, London University, and later on became emeritus professor at London University.
+
+
+== Awards ==
+Richardson was elected an International Member of the American Philosophical Society in 1910. He was elected a Fellow of the Royal Society (FRS) in 1913, and was awarded their Hughes and Royal medals in 1920 and 1930, respectively. He was knighted in 1939.
+
+
+== Works ==
+The emission of electricity from hot bodies (1st edition, 1916)
+The emission of electricity from hot bodies (2nd edition, 1921)
+
+
+== References ==
+
+
+== External links ==
+ Media related to Owen Willans Richardson at Wikimedia Commons
+Owen Richardson on Nobelprize.org

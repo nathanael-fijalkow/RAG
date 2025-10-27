@@ -1,0 +1,28 @@
+Ludvig Valentin Lorenz ( LORR-ənts; 18 January 1829 – 9 June 1891) was a Danish physicist and mathematician. In 1867, he gave completely general integral solutions to the differential equations of electromagnetism, which contain retardation effects reflecting the finite speed of light. This paper also introduces the Lorenz gauge, named after him.
+Lorenz also developed mathematical formulae to describe phenomena such as the relation between the refraction of light and the density of a pure transparent substance, and the relation between a metal's electrical and thermal conductivity and temperature (Wiedemann–Franz–Lorenz law).
+His name is sometimes confused with that of the physicist Hendrik Antoon Lorentz, who is incorrectly credited for
+Lorenz's work.
+
+
+== Biography ==
+Lorenz was born in Helsingør and studied at the Technical University in Copenhagen. He became professor at the Military Academy in Copenhagen 1876. From 1887, his research was funded by the Carlsberg Foundation.
+
+
+== Work ==
+Lorenz's greatest contribution (1867) is a development of general integral solutions to the differential equations of electromagnetism, which contain retardation effects reflecting the finite speed of light. This paper also introduces the Lorenz gauge, named after him. His 1867 paper can be regarded as contemporaneous with Maxwell's identification of light with electromagnetism waves (1865).
+The Lorenz gauge hence contradicted Maxwell's original derivation of the EM wave equation by introducing a retardation effect to the Coulomb force and bringing it inside the EM wave equation which was introduced in Lorenz's paper "On the identity of the vibrations of light with electrical currents". Lorenz's work was the first use of symmetry to simplify Maxwell's equations after Maxwell himself published his 1865 paper. 
+Lorenz also developed the theory of light propagation through a single homogeneous medium and described the passage of light between different media. The formula for the relationship between the refractive index and the density of a medium was published by Lorenz in 1869 and by Hendrik Lorentz (who discovered it independently) in 1878 and is therefore called the Lorentz–Lorenz equation or the Lorenz-Lorentz equation which preserves the historical order. Using his electromagnetic theory of light he stated what is known as the Lorenz gauge condition, and was able to derive a correct value for the velocity of light. He also developed a theory of light scattering, publishing it in Danish in 1890 and in French in his Collected Works, published in 1898. It was later independently rediscovered by Gustav Mie in 1908, so it is sometimes referred to as Lorenz–Mie theory. Additionally, Lorenz laid the foundations for ellipsometry 
+
+by using Fresnel's theory of refraction to discover that light reflected at the interface of two media becomes elliptically polarized.
+
+
+== References ==
+
+Lorenz, L. (1867). "On the Identity of the Vibrations of Light with Electrical Currents". Philosophical Magazine. Series 4. 34 (230): 287–301.
+
+
+== External links ==
+Scienceworld
+Cartage.org.lb
+"Sur la lumière réfléchie et réfractée par une sphère transparente" pp. 405-529, Œuvres scientifiques de L. Lorenz, Volume 1
+"Modern Electrodynamics" pp. 789-790

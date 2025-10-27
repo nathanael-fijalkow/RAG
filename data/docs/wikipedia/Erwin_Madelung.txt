@@ -1,0 +1,29 @@
+Erwin Madelung (18 May 1881 – 1 August 1972) was a German physicist.
+He was born in 1881 in Bonn. His father was the surgeon Otto Wilhelm Madelung. He earned a doctorate in 1905 from the University of Göttingen, specializing in crystal structure, and eventually became a professor. It was during this time he developed the Madelung constant, which characterizes the net electrostatic effects of all ions in a crystal lattice, and is used to determine the energy of one ion.
+In 1921 he succeeded Max Born as the Chair of Theoretical Physics at the Goethe University Frankfurt, which he held until his retirement in 1949. He specialized in atomic physics and quantum mechanics, and it was during this time he developed the Madelung equations, an alternative form of the Schrödinger equation.
+He is also known for the Madelung rule, which states that atomic orbitals are filled in order of increasing 
+  
+    
+      
+        n
+        +
+        l
+      
+    
+    {\displaystyle n+l}
+  
+ quantum numbers.
+
+
+== Publications ==
+Magnetisierung durch schnell verlaufende Stromvorgänge mit Rücksicht auf Marconis Wellendetektor. Göttingen, Univ., Phil. Fak., Diss., 1905.
+Die mathematischen Hilfsmittel des Physikers, Springer Verlag, Berlin 1922. subsequent editions: 1925, 1936, 1950, 1953, 1957, 1964.
+
+
+== References ==
+
+
+== External links ==
+Works by or about Erwin Madelung at the Internet Archive
+Literature by and about Erwin Madelung in the German National Library catalogue
+Portrait drawing at Frankfurt University

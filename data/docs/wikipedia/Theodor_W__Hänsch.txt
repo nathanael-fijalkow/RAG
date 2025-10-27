@@ -1,0 +1,72 @@
+Theodor Wolfgang Hänsch (German pronunciation: [ˈteːodoːɐ̯ ˈhɛnʃ] ; born 30 October 1941) is a German physicist. He received one-fourth of the 2005 Nobel Prize in Physics for "contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique", sharing the prize with John L. Hall and Roy J. Glauber.
+Hänsch is Director of the Max-Planck-Institut für Quantenoptik (quantum optics) and Professor of experimental physics and laser spectroscopy at the Ludwig-Maximilians University in Munich, Bavaria, Germany.
+
+
+== Biography ==
+Hänsch received his secondary education at Helmholtz-Gymnasium Heidelberg and gained his Diplom and doctoral degree from Heidelberg University in the 1960s. Subsequently, he was a NATO postdoctoral fellow at Stanford University with Arthur L. Schawlow from 1970 to 1972. Hänsch became an assistant professor at Stanford University, California from 1975 to 1986. He was awarded the Comstock Prize in Physics from the National Academy of Sciences in 1983. In 1986, he received the Albert A. Michelson Medal from the Franklin Institute. In the same year Hänsch returned to Germany to head the Max-Planck-Institut für Quantenoptik. In 1989, he received the Gottfried Wilhelm Leibniz Prize of the Deutsche Forschungsgemeinschaft, which is the highest honour awarded in German research. In 2005, he also received the Otto Hahn Award of the City of Frankfurt am Main, the Society of German Chemists and the German Physical Society.  In that same year, the Optical Society of America awarded him the Frederic Ives Medal and the status of honorary member in 2008.
+One of his students, Carl E. Wieman, received the Nobel Prize in Physics in 2001.
+In 1970 he invented a new type of laser that generated light pulses with an extremely high spectral resolution (i.e. all the photons emitted from the laser had nearly the same energy, to a precision of 1 part in a million). Using this device he succeeded to measure the transition frequency of the Balmer line of atomic hydrogen with a much higher precision than before. During the late 1990s, he and his coworkers developed a new method to measure the frequency of laser light to an even higher precision, using a device called the optical frequency comb generator. This invention was then used to measure the Lyman line of atomic hydrogen to an extraordinary precision of 1 part in a hundred trillion. At such a high precision, it became possible to search for possible changes in the fundamental physical constants of the universe over time. For these achievements he became co-recipient of the Nobel Prize in Physics for 2005.
+
+
+== Background to Nobel Prize ==
+The Nobel Prize was awarded to Professor Hänsch in recognition for work that he did at the end of the 1990s at the Max Planck Institute in Garching, near Munich, Germany. He developed an optical "frequency comb synthesiser", which makes it possible, for the first time, to measure with extreme precision the number of light oscillations per second. These optical frequency measurements can be millions of times more precise than previous spectroscopic determinations of the wavelength of light.
+The work in Garching was motivated by experiments on the very precise laser spectroscopy of the hydrogen atom. This atom has a particularly simple structure. By precisely determining its spectral line, scientists were able to draw conclusions about how valid our fundamental physical constants are – if, for example, they change slowly with time. By the end of the 1980s, the laser spectroscopy of hydrogen had reached the maximum precision allowed by interferometric measurements of optical wavelengths.
+The researchers at the Max Planck Institute of Quantum Optics thus speculated about new methods, and developed the optical frequency comb synthesizer. Its name comes from the fact that it generates a light spectrum out of what are originally single-colour, ultrashort pulses of light. This spectrum is made of hundreds of thousands of sharp spectral lines with a constant frequency interval.
+Such a frequency comb is similar to a ruler. When the frequency of a particular radiation is determined, it can be compared to the extremely acute comb spectral lines, until one is found that "fits". In 1998, Professor Hänsch received a Philip Morris Research Prize for the development of this "measurement device".
+One of the first applications of this new kind of light source was to determine the frequency of the very narrow ultraviolet hydrogen 1S-2S two-photon transition. Since then, the frequency has been determined with a precision of 15 decimal places.
+The frequency comb now serves as the basis for optical frequency measurements in large numbers of laboratories worldwide. Since 2002, the company Menlo Systems, in whose foundation the Max Planck Institute in Garching played a role, has been delivering commercial frequency comb synthesizers to laboratories all over the world.
+
+
+== Laser development ==
+Hänsch introduced intracavity telescopic beam expansion to grating tuned laser oscillators thus producing the first narrow-linewidth tunable laser.  This development has been credited with having had a major influence in the development of further narrow-linewidth multiple-prism grating laser oscillators. In turn, tunable narrow-linewidth organic lasers, and solid-state lasers, using total illumination of the grating, have had a major impact in laser spectroscopy.
+
+
+== Awards ==
+
+James Joyce Award (2009)
+Carl Friedrich von Siemens Prize (2006)
+Rudolf Diesel Gold Medal (2006)
+Ioannes Marcus Marci Medal (2006)
+Bambi Award (2005)
+Otto Hahn Prize (2005)
+I. I. Rabi Award (2005)
+Nobel Prize in Physics (2005)
+Frederic Ives Medal (2005)
+Matteucci Medal (2001)
+SUNAMCO Medal (2001)
+Philip Morris Research Prize (1998, 2000)
+Arthur L. Schawlow Award (2000)
+Stern-Gerlach Medal (2000)
+Arthur L. Schawlow Prize (1996)
+Einstein Prize for Laser Science (1995)
+King Faisal International Prize (1989)
+Gottfried Wilhelm Leibniz Prize (1989)
+Italgas Prize for Research and Innovation (1987)
+Michelson Medal (1986)
+William F. Meggers Award (1985)
+Herbert P. Broida Prize (1983)
+Comstock Prize in Physics (1983)
+Otto-Klung Prize (1980)
+
+
+== See also ==
+Atom laser
+Beam expander
+Dye laser
+Doppler cooling
+Gray molasses
+Tunable laser
+Vernier spectroscopy
+
+
+== References ==
+
+
+== External links ==
+Theodor W. Hänsch on Nobelprize.org 
+Max-Planck-Institute of Quantum Optics
+United States Patents by Theodor Hansch
+Hänsch's homepage at the MPI for Quantum Optics
+A video interview with Theodor Hänsch
+Hänsch's homepage at LENS(Firenze)
+Group photograph taken at Lasers '95 including (right to left) Marlan Scully, Theodor W. Hänsch, Carl E. Wieman, and F. J. Duarte.

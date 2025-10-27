@@ -1,0 +1,33 @@
+Wolfgang Ketterle (German pronunciation: [ˈvɔlfɡaŋ ˈkɛtɐlə] ; born 21 October 1957) is a German physicist and professor of physics at the Massachusetts Institute of Technology (MIT). His research has focused on experiments that trap and cool atoms to temperatures close to absolute zero, and he led one of the first groups to realize Bose–Einstein condensation in these systems in 1995. For this achievement, as well as early fundamental studies of condensates, he was awarded the Nobel Prize in Physics in 2001, together with Eric Allin Cornell and Carl Wieman.
+
+
+== Biography ==
+Ketterle was born in Heidelberg, Baden-Württemberg, and attended school in Eppelheim and Heidelberg. In 1976 he entered the University of Heidelberg, before transferring to the Technical University of Munich two years later, where he gained the equivalent of his master's diploma in 1982. In 1986 he earned a PhD in experimental molecular spectroscopy under the supervision of Herbert Walther and Hartmut Figger at the Max Planck Institute for Quantum Optics in Garching, before conducting postdoctoral research at Garching and the University of Heidelberg. In 1990 he joined the group of David E. Pritchard in the Research Laboratory of Electronics at MIT (RLE).  He was appointed to the MIT physics faculty in 1993 and, since 1998, he has been John D. MacArthur Professor of Physics.  In 2006, he was appointed Associate Director of RLE and began serving as director of MIT's Center for Ultracold Atoms.
+After achieving Bose–Einstein condensation in dilute gases in 1995, his group was in 1997 able to demonstrate interference between two colliding condensates, as well as the first realization of an "atom laser", the atomic analogue of an optical laser.  In addition to ongoing investigations of Bose–Einstein condensates in ultracold atoms, his more recent achievements have included the creation of a molecular Bose condensate in 2003, as well as a 2005 experiment providing evidence for "high-temperature" superfluidity in a fermionic condensate.
+Ketterle is also a runner, and was featured in the December 2009 issue of Runner's World's "I'm a Runner".  Ketterle spoke of taking his running shoes to Stockholm when he received the Nobel Prize and happily running in the early dusk. Ketterle completed the 2013 Boston Marathon with a time of 2:49:16, and in 2014, in Boston, ran a personal record of 2:44:06.
+Ketterle serves on the board of trustees of the Center for Excellence in Education (CEE), and participates in the Distinguished Lecture Series of CEE's flagship program for high-school students, the Research Science Institute (RSI), which Ketterle's own son Jonas attended in 2003. Ketterle sits on the International Scientific Advisory Committee of Australia's ARC Centre of Excellence in Future Low-Energy Electronics Technologies.
+Ketterle is one of the 20 American recipients of the Nobel Prize in Physics to sign a letter addressed to President George W. Bush in May 2008, urging him to "reverse the damage done to basic science research in the Fiscal Year 2008 Omnibus Appropriations Bill" by requesting additional emergency funding for the Department of Energy's Office of Science, the National Science Foundation, and the National Institute of Standards and Technology.
+
+
+== Personal life ==
+Ketterle has been married to Michèle Plott since 2011. He has five children, three with Gabriele Ketterle, to whom he was married from 1985 to 2001.
+
+
+== Publications ==
+K. B. Davis; M. O. Mewes; M. R. Andrews; N. J. van Druten; D. S. Durfee; D. M. Kurn & W. Ketterle (27 November 1995). "Bose-Einstein Condensation in a Gas of Sodium Atoms" (PDF). Physical Review Letters. 75 (22): 3969–3973. Bibcode:1995PhRvL..75.3969D. doi:10.1103/PhysRevLett.75.3969. PMID 10059782. S2CID 975895. Archived from the original (PDF) on 10 August 2019. Retrieved 4 July 2019.
+M. R. Andrews; C. G. Townsend; H.-J. Miesner; D. S. Durfee; D. M. Kurn & W. Ketterle (1997). "Observation of interference between two Bose condensates". Science. 275 (5300): 637–641. CiteSeerX 10.1.1.38.8970. doi:10.1126/science.275.5300.637. PMID 9005843. S2CID 38284718.
+M. O. Mewes; M. R. Andrews; D. M. Kurn; D. S. Durfee; C. G. Townsend & W. Ketterle (27 January 1997). "Output Coupler for Bose-Einstein Condensed Atoms". Physical Review Letters. 78 (4): 582–585. Bibcode:1997PhRvL..78..582M. doi:10.1103/PhysRevLett.78.582. S2CID 9560538.
+M. W. Zwierlein; C. A. Stan; C. H. Schunck; S. M. F. Raupach; S. Gupta; Z. Hadzibabic & W. Ketterle (2003). "Observation of Bose-Einstein Condensation of Molecules". Physical Review Letters. 91 (25) 250401. arXiv:cond-mat/0311617. Bibcode:2003PhRvL..91y0401Z. doi:10.1103/PhysRevLett.91.250401. PMID 14754098. S2CID 8342544.
+
+
+== References ==
+
+
+== External links ==
+
+Wolfgang Ketterle on Nobelprize.org  including the Nobel Lecture 8 December 2001 "When Atoms Behave as Waves: Bose-Einstein Condensation and the Atom Laser"
+Ketterle at MIT
+Ketterle at RLE
+Video Interview
+Text interview
+Interview at American Scientist

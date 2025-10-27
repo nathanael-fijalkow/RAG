@@ -1,0 +1,124 @@
+Frank Anthony Wilczek ( or ; born May 15, 1951) is an American theoretical physicist, mathematician and Nobel laureate. He is the   Herman Feshbach Professor of Physics at the Massachusetts Institute of Technology (MIT), Founding Director of T. D. Lee Institute and Chief Scientist at the Wilczek Quantum Center, Shanghai Jiao Tong University (SJTU), distinguished professor at Arizona State University (ASU) during February and March and full professor at Stockholm University.
+Wilczek, along with David Gross and H. David Politzer, was awarded the Nobel Prize in Physics in 2004 "for the discovery of asymptotic freedom in the theory of the strong interaction". In May 2022, he was awarded the Templeton Prize for his "investigations into the fundamental laws of nature, that has transformed our understanding of the forces that govern our universe and revealed an inspiring vision of a world that embodies mathematical beauty."
+
+
+== Early life and education ==
+Born in Mineola, New York, Wilczek is of Polish and Italian origin. His grandparents were immigrants who "really did work with their hands", according to Wilczek, but his father took night school classes to educate himself, working as a repairman to support his family. Wilczek's father became a "self-taught engineer", whose interests in technology and science inspired his son.
+Wilczek was educated in the public schools of Queens, attending Martin Van Buren High School. It was around this time Wilczek's parents realized that he was exceptional, in part as a result of their son having been administered an IQ test.
+After skipping two grades, Wilczek started high school in the 10th grade, when he was 13 years old. He was particularly inspired by two of his high school physics teachers, one of whom taught a course that helped students with the national Westinghouse Science Talent Search. Wilczek was a finalist in 1967 and ultimately won fourth place, based on a mathematical project involving group theory.
+He received his Bachelor of Science in Mathematics and membership in Phi Beta Kappa at the University of Chicago in 1970. During his last year as a math major at Chicago, he attended a course taught by Peter Freund on group theory in physics, which Wilczek later described as being "basically particle physics", and very influential:
+
+Peter Freund played a big role in my life, though, because he taught this course on group theory, or symmetry in physics that—he was so enthusiastic, and he really gushed—and it's beautiful material. Still to this day I think the quantum theory of angular momentum is one of the absolute pinnacles of human achievement. Just beautiful.
+Wilczek attended graduate school at Princeton University. After a year and a half, he transferred from mathematics to physics, with David Gross as his thesis advisor. He earned a Master of Arts in Mathematics in 1972 and a Ph.D. in physics in 1974.
+
+
+== Research ==
+Wilczek's 2004 Nobel Prize was for asymptotic freedom, but he has helped reveal and develop axions, anyons, asymptotic freedom, the color superconducting phases of quark matter, and other aspects of quantum field theory. He has worked on condensed matter physics, astrophysics, and particle physics.
+
+
+=== Asymptotic freedom ===
+In 1973, while a graduate student working with David Gross at Princeton University, Wilczek (together with Gross) discovered asymptotic freedom, which holds that the closer quarks are to each other, the less the strong interaction (or color charge) between them; when quarks are in extreme proximity, the nuclear force between them is so weak that they behave almost as free particles. The theory, which was independently discovered by H. David Politzer, was important for the development of quantum chromodynamics. According to the Royal Netherlands Academy of Arts and Sciences when awarding Wilczek its Lorentz Medal in 2002, This [asymptotic freedom] is a phenomenon whereby the building blocks which make up the nucleus of an atom – 'quarks' – behave as free particles when they are close together, but become more strongly attracted to each other as the distance between them increases. This theory forms the key to the interpretation of almost all experimental studies involving modern particle accelerators.
+
+
+=== Axions ===
+
+The axion is a hypothetical elementary particle. If axions exist and have low mass within a specific range, they are of interest as a possible component of cold dark matter.
+In 1977, Roberto Peccei and Helen Quinn postulated a solution to the strong CP problem, the Peccei–Quinn mechanism. This is accomplished by adding a new global symmetry (called a Peccei–Quinn symmetry.) When that symmetry is spontaneously broken, a new particle results, as shown independently by Wilczek and by Steven Weinberg. Wilczek named this new hypothetical particle the "axion" after a brand of laundry detergent, while Weinberg called it "Higglet". Weinberg later agreed to adopt Wilczek's name for the particle.
+Although most experimental searches for dark matter candidates have targeted WIMPs, there have also been many attempts to detect axions. In June, 2020, an international team of physicists working in Italy detected a signal that could be axions.
+
+
+=== Anyons ===
+
+In physics, an anyon is a type of quasiparticle that occurs only in two-dimensional systems, with properties much less restricted than fermions and bosons. In particular, anyons can have properties intermediate between fermions and bosons, including fractional electric charge. This anything-goes behavior inspired Wilczek in 1982 to name them "anyons".
+In 1977, a group of theoretical physicists working at the University of Oslo, led by Jon Leinaas and Jan Myrheim, calculated that the traditional division between fermions and bosons would not apply to theoretical particles existing in two dimensions. When Daniel Tsui and Horst Störmer discovered the fractional quantum Hall effect in 1982, Bertrand Halperin (1984) expanded the math Wilczek proposed in 1982 for fractional statistics in two dimensions to help explain it.
+Frank Wilczek, Dan Arovas, and Robert Schrieffer analyzed the fractional quantum Hall effect in 1984, proving that anyons were required to describe it.
+In 2020, experimenters from the Ecole Normale Supérieure and from the Centre for Nanosciences and Nanotechnologies (C2N) reported in Science that they had made a direct detection of anyons.
+
+
+=== Time crystals ===
+
+In 2012 he proposed the idea of a time crystal. In 2018, several research teams reported the existence of time crystals. In 2018, he and Qing-Dong Jiang calculated that the so-called "quantum atmosphere" of materials should theoretically be capable of being probed using existing technology such as diamond probes with nitrogen-vacancy centers.
+
+
+=== Current research ===
+"Pure" particle physics: connections between theoretical ideas and observable phenomena;
+behavior of matter: phase structure of quark matter at ultra-high temperature and density; color superconductivity;
+application of particle physics to cosmology;
+application of field theory techniques to condensed matter physics;
+quantum theory of black holes; see, e.g., the application of the moving mirror model to black holes.
+
+
+== Personal life ==
+Wilczek met Betsy Devine at Princeton, when both watched the televised 1972 Fisher-Spassky chess matches. They married in 1973, and together they have two daughters. His favorite physicist is James Clerk Maxwell.
+
+
+=== Religious views ===
+Wilczek was raised Catholic but later "lost faith in conventional religion" although he told Scientific American that religion "had meant a lot to me as a teenager". He has been described as an agnostic but tweeted in 2013 that "'pantheist' is closer to the mark".
+Wilczek said that "the world embodies beautiful ideas" but "although this may inspire a spiritual interpretation, it does not require one".
+
+
+=== Science outreach and activism ===
+Wilczek is a member of the Scientific Advisory Board for the Future of Life Institute, an organization that works to mitigate existential risks facing humanity, particularly existential risk from advanced artificial intelligence.
+In 2014, Wilczek penned a letter, along with Stephen Hawking and two other scholars, warning that "Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last, unless we learn how to avoid the risks."
+Wilczek is also a supporter of the Campaign for the Establishment of a United Nations Parliamentary Assembly, an organization which advocates for democratic reform in the United Nations, and the creation of a more accountable international political system.
+Wilczek is on the board for Society for Science & the Public. He is a co-founding member of the Kosciuszko Foundation of the Collegium of Eminent Scientists of Polish Origin and Ancestry.
+Wilczek has appeared on an episode of Penn & Teller: Bullshit!, where Penn referred to him as "the smartest person [they have] ever had on the show".
+
+
+== Honors ==
+In 1982, he was awarded a MacArthur Fellowship.
+Wilczek was elected as a member of the National Academy of Sciences in 1990, a member of the American Academy of Arts and Sciences in 1993, and the American Philosophical Society in 2005.
+Wilczek became a foreign member of the Royal Netherlands Academy of Arts and Sciences in 2000. He was awarded the Lorentz Medal in 2002.  Wilczek won the Lilienfeld Prize of the American Physical Society in 2003.  In the same year, he was awarded the Faculty of Mathematics and Physics Commemorative Medal from Charles University in Prague.  He was the co-recipient of the 2003 High Energy and Particle Physics Prize of the European Physical Society.  The Nobel Prize in Physics 2004 was awarded jointly to David J. Gross, H. David Politzer and Frank Wilczek "for the discovery of asymptotic freedom in the theory of the strong interaction". Wilczek was also the co-recipient of the 2005 King Faisal International Prize for Science. In that same year, he received the Golden Plate Award of the American Academy of Achievement. On January 25, 2013, Wilczek received an honorary doctorate from the Faculty of Science and Technology at Uppsala University, Sweden. He also served on the Physical Sciences jury for the Infosys Prize from 2009 to 2011. In 2011, Wilczek gave the George Gamow Memorial Lecture at the University of Colorado Boulder. In 2022 he was awarded the Templeton Prize for the work that reveals "a vision of a universe that he regards as embodying mathematical beauty at the scales of the magnificently large and unimaginably small".
+Wilczek holds the Herman Feshbach Professorship of Physics at MIT Center for Theoretical Physics. He has also worked at the Institute for Advanced Study in Princeton and the Institute for Theoretical Physics at the University of California, Santa Barbara and was also a visiting professor at NORDITA.
+
+
+== Publications ==
+
+
+=== For general audience ===
+2021 Fundamentals: Ten Keys to Reality, Penguin Press ISBN 978-0735223790
+2015 A Beautiful Question: Finding Nature's Deep Design, Allen Lane,  ISBN 9781846147012
+2014 (with Stephen Hawking, Max Tegmark and Stuart Russell). "Transcending Complacency on Superintelligent Machines". Huffington Post.
+2008. The Lightness of Being: Mass, Ether, and the Unification of Forces. Basic Books. ISBN 978-0-465-00321-1.
+2007. La musica del vuoto. Roma: Di Renzo Editore.
+2006. Fantastic Realities: 49 Mind Journeys And a Trip to Stockholm. World Scientific. ISBN 978-981-256-655-3.
+2002, "On the world's numerical recipe (an ode to physics)", Daedalus 131(1): 142–47.
+1989 (with Betsy Devine). Longing for the Harmonies: Themes and Variations from Modern Physics. W W Norton. ISBN 978-0-393-30596-8.
+
+
+=== Technical ===
+
+1988. Geometric Phases in Physics.
+1990. Fractional Statistics and Anyon Superconductivity.
+
+
+== See also ==
+Coupling unification
+Dark matter
+Fractional statistics
+Hall effect
+MIT Physics Department
+Quantum number
+Soliton
+WIMP
+
+
+== References ==
+
+
+== External links ==
+
+Frank Wilczek on Nobelprize.org 
+Frank Wilczek on INSPIRE-HEP 
+Papers in ArXiv
+"The Quirk of the Quark": article about Frank Wilczek by K. C. Cole in Esquire (December, 1984)
+Wilczek on anyons and superconductivity (April, 1991)
+The World's Numerical Recipe (April 26, 2001)
+Blog of the Wilczek family's Nobel adventures Archived 2011-09-30 at the Wayback Machine (2004)
+ForaTV: The Large Hadron Collider and Unified Field Theory (September 25, 2008)
+Frank Wilczek explains Einstein's massive contributions to science (2009)
+Freeman Dyson, "Leaping into the Grand Unknown: Review of The Lightness of Being", The New York Review of Books 56(6). (April 9, 2009)
+Frank Wilczek discusses his book "The Lightness of Being" on the 7th Avenue Project Radio Show (November 29, 2009)
+A television interview with Frank Wilczek on YouTube for Cambridge University Television (February, 2011)
+A radio interview with Frank Wilczeck Archived 2012-04-22 at the Wayback Machine Aired on the Lewis Burke Frumkes Radio Show (April 10, 2011)
+"A Prodigy Who Cracked Open the Cosmos": article about Frank Wilczek by Claudia Dreifus published in Quanta Magazine (January 12, 2021)

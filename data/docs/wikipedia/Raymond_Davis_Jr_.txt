@@ -1,0 +1,53 @@
+Raymond Davis Jr. (October 14, 1914 – May 31, 2006) was an American chemist and physicist. He is best known as the leader of the Homestake experiment in the 1960s-1980s, which was the first experiment to detect neutrinos emitted from the Sun; for this he shared the 2002 
+Nobel Prize in Physics.
+
+
+== Early life and education ==
+Davis was born in Washington, D.C., where his father was a photographer for the National Bureau of Standards. He spent several years as a choirboy to please his mother, although he could not carry a tune. He enjoyed attending the concerts at the Watergate before air traffic was loud enough to drown out the music. His brother Warren, 14 months younger than he, was his constant companion in boyhood. He received his B.S. from the University of Maryland in 1938 in chemistry, which is part of the University of Maryland College of Computer, Mathematical, and Natural Sciences. He also received a master's degree from that school and a Ph.D. from Yale University in physical chemistry in 1942.
+
+
+== Career ==
+Davis spent most of the war years at Dugway Proving Ground, Utah observing the results of chemical weapons tests and exploring the Great Salt Lake basin for evidence of its predecessor, Lake Bonneville.
+After his discharge from the army in 1945, Davis went to work at Monsanto's Mound Laboratory, in Miamisburg, Ohio, doing applied radiochemistry of interest to the United States Atomic Energy Commission. In 1948, he joined Brookhaven National Laboratory, which was attempting to find peaceful uses for nuclear power.
+Davis reports that he was asked "to find something interesting to work on," and dedicated his career to the study of neutrinos, particles which had been predicted to explain the process of beta decay, but whose separate existence had not been confirmed.  Davis investigated the detection of neutrinos by beta decay, the process by which a neutrino brings enough energy to a nucleus to make certain stable isotopes into radioactive ones.  Since the rate for this process is very low, the number of radioactive atoms created in neutrino experiments is very small, and Davis began investigating the rates of processes other than beta decay that would mimic the signal of neutrinos.
+Using barrels and tanks of carbon tetrachloride as detectors, Davis characterized the rate of the production of argon-37 as a function of altitude and as a function of depth underground. He deployed a detector containing chlorine atoms at the Brookhaven Reactor in 1954 and later one of the reactors at Savannah River. These experiments failed to detect a surplus of radioactive argon when the reactors were operating over when the reactors were shut down, and this was taken as the first experimental evidence that neutrinos causing the chlorine reaction, and antineutrinos produced in reactors, were distinct. Detecting neutrinos proved considerably more difficult than not detecting antineutrinos. Davis was the lead scientist behind the Homestake Experiment, the large-scale radiochemical neutrino detector which first detected evidence of neutrinos from the sun.
+Davis shared the Nobel Prize in Physics in 2002 with Japanese physicist Masatoshi Koshiba and Italian Riccardo Giacconi for pioneering contributions to astrophysics, Davis was recognized for his work on the detection of cosmic neutrinos, looking at the solar neutrino problem in the Homestake Experiment. He was 88 years old when awarded the prize.
+
+
+== Personal life ==
+Davis met his wife Anna Torrey at Brookhaven and together they built a 21-foot wooden sailboat, the Halcyon. They had five children  and lived in the same house in Blue Point, New York for over 50 years. On May 31, 2006, he died in Blue Point, New York, from complications of Alzheimer's disease.
+
+
+== Honors and awards ==
+
+2003, Benjamin Franklin Medal (with John N. Bahcall and Masatoshi Koshiba)
+2002, Nobel Prize in Physics (with Masatoshi Koshiba)
+2001, National Medal of Science
+2000, Wolf Prize in Physics
+1996, George Ellery Hale Prize of the American Astronomical Society
+1994, Beatrice M. Tinsley Prize of the American Astronomical Society
+1992, W. K. H. Panofsky Prize of the American Physical Society
+1988, Tom W. Bonner Prize of the American Physical Society
+1978, Comstock Prize in Physics of the National Academy of Sciences
+
+
+== Notable works ==
+Davis, Raymond Jr. (1953). "Attempt to detect the Antineutrinos from a Nuclear Reactor by the 37Cl (ν, e−) 37Ar Reaction". Physical Review. 97 (3): 766. Bibcode:1955PhRv...97..766D. doi:10.1103/PhysRev.97.766. – Non-detection of antineutrinos with chlorine
+Davis, Raymond Jr. (1964). "Solar Neutrinos II, Experimental". Physical Review Letters. 12 (11): 303. Bibcode:1964PhRvL..12..303D. doi:10.1103/PhysRevLett.12.303. – Proposal for Homestake Experiment
+Cleveland, B. T.; et al. (1998). "Measurement of the solar electron neutrino flux with the Homestake chlorine detector". Astrophysical Journal. 496 (1): 505–526. Bibcode:1998ApJ...496..505C. doi:10.1086/305343. – final results of Homestake Experiment
+
+
+== Other publications ==
+Davis, R. Jr. & D. S. Harmer. "Solar Neutrinos", Brookhaven National Laboratory (BNL), (December 1964).
+Davis, R. Jr. "Search for Neutrinos from the Sun", Brookhaven National Laboratory (BNL), United States Department of Energy (through predecessor agency the Atomic Energy Commission), (1968).
+Davis, R. Jr. & J.C. Evans Jr. "Report on the Brookhaven Solar Neutrino Experiment", Brookhaven National Laboratory (BNL), (September 22, 1976).
+Davis, R. Jr., Evans, J. C. & B. T. Cleveland. "Solar Neutrino Problem", Brookhaven National Laboratory (BNL), (April 28, 1978).
+Davis, R. Jr., Cleveland, B. T. & J. K. Rowley. "Variations in the Solar Neutrino Flux", Department of Astronomy and Astrophysics at University of Pennsylvania, Los Alamos National Laboratory (LANL), Brookhaven National Laboratory (BNL), (August 2, 1987).
+
+
+== References ==
+
+
+== External links ==
+Raymond Davis Jr. on Nobelprize.org  including the Nobel Lecture on December 8, 2002 A Half-Century with Solar Neutrinos
+The Ghost Particle  at PBS NOVA

@@ -1,0 +1,23 @@
+Klaus von Klitzing (German: [ˈklaʊs fɔn ˈklɪtsɪŋ] ; born 28 June 1943) is a German physicist, known for discovery of the integer quantum Hall effect, for which he was awarded the 1985 Nobel Prize in Physics.
+
+
+== Education ==
+In 1962, Klitzing passed the Abitur at the Artland-Gymnasium in Quakenbrück, Germany, before studying physics at the Braunschweig University of Technology, where he received his diploma in 1969. He continued his studies at the University of Würzburg at the chair of Gottfried Landwehr, completing his PhD thesis entitled Galvanomagnetic Properties of Tellurium in Strong Magnetic Fields (German: Galvanomagnetische Eigenschaften von Tellur in starken Magnetfeldern) in 1972, and gaining habilitation in 1978.
+
+
+== Research and career ==
+During his career Klitzing has worked at the Clarendon Laboratory at the University of Oxford and the Grenoble High Magnetic Field Laboratory in France (now LNCMI), where he continued to work until becoming a professor at the Technical University of Munich in 1980. He has been a director of the Max Planck Institute for Solid State Research in Stuttgart since 1985.
+The von Klitzing constant, RK = h/e2 = 25812.80745... Ω, is named in honor of Klaus von Klitzing's discovery of the quantum Hall effect, and is listed in the National Institute of Standards and Technology Reference on Constants, Units, and Uncertainty. The inverse of the constant is equal to half the value of the conductance quantum.
+More recently, Klitzing's research focuses on the properties of low-dimensional electronic systems, typically in low temperatures and in high magnetic fields.
+
+
+== Honours and awards ==
+Von Klitzing has won numerous awards and honours including:
+
+
+== References ==
+
+
+== External links ==
+
+Klaus von Klitzing on Nobelprize.org  including the Nobel Lecture, 9 December 1985 The Quantized Hall Effect

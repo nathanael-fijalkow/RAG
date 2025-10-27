@@ -1,0 +1,70 @@
+George Fitzgerald Smoot III (February 20, 1945 – September 18, 2025) was an American astrophysicist, cosmologist, and Nobel laureate. He won the Nobel Prize in Physics in 2006 for his work on the Cosmic Background Explorer (COBE) with John C. Mather that led to the "discovery of the black body form and anisotropy of the cosmic microwave background radiation".
+This work helped further the Big Bang theory of the universe using the COBE satellite. According to the Nobel Prize committee, "the COBE project can also be regarded as the starting point for cosmology as a precision science." In 2007, Smoot donated $500,000 to fund the Berkeley Center for Cosmological Physics, and an additional amount from his Nobel Prize money, less travel costs, to the East Bay
+Community Foundation, a charity. 
+Smoot had been at the University of California, Berkeley, and the Lawrence Berkeley National Laboratory since 1970. He was Chair of the Endowment Fund "Physics of the Universe" of Paris Center for Cosmological Physics. Apart from being elected a member of the US National Academy of Sciences and a Fellow of the American Physical Society, Smoot had been honored by several universities worldwide with doctorates or professorships. He was also the recipient of the Gruber Prize in Cosmology (2006), the Daniel Chalonge Medal from the International School of Astrophysics (2006), the Einstein Medal from the Albert Einstein Society (2003), the Ernest Orlando Lawrence Award from the U.S. Department of Energy (1995), and the Exceptional Scientific Achievement Medal from NASA (1991). He was a member of the advisory board of the journal Universe.
+Smoot was one of the 20 American recipients of the Nobel Prize in Physics to sign a letter addressed to President George W. Bush in May 2008, urging him to "reverse the damage done to basic science research in the Fiscal Year 2008 Omnibus Appropriations Bill" by requesting additional emergency funding for the Department of Energy's Office of Science, the National Science Foundation, and the National Institute of Standards and Technology.
+
+
+== Early life, family and education ==
+Smoot was born in Yukon, Florida, on February 20, 1945. His father was a hydrologist for the US Geological Survey, and his mother was a teacher and school principal. He had a sister, Sharon. Their maternal grandfather was Johnson Tal Crawford. The family lived in Alaska before relocating to Ohio. He graduated from Upper Arlington High School in Upper Arlington, Ohio, in 1962. 
+At the Massachusetts Institute of Technology, he obtained dual bachelor's degrees in mathematics and physics in 1966, then a Ph.D. in particle physics in 1970. A distant relative, Oliver R. Smoot, was the MIT student who was used as the unit of measure known as the smoot.
+
+
+== Initial research ==
+Smoot switched to cosmology and began work at Berkeley, collaborating with Luis Walter Alvarez on the High Altitude Particle Physics Experiment, a stratospheric weather balloon designed to detect antimatter in Earth's upper atmosphere, the presence of which was predicted by the now discredited steady state theory of cosmology.
+He then took up an interest in cosmic microwave background radiation (CMB), previously discovered by Arno Allan Penzias and Robert Woodrow Wilson in 1964. There were, at that time, several open questions about this topic, relating directly to fundamental questions about the structure of the universe. Certain models predicted the universe as a whole was rotating, which would have an effect on the CMB: its temperature would depend on the direction of observation. With the help of Alvarez and Richard A. Muller, Smoot developed a differential radiometer which measured the difference in temperature of the CMB between two directions 60 degrees apart. The instrument, which was mounted on a Lockheed U-2 plane, made it possible to determine that the overall rotation of the universe was zero, which was within the limits of accuracy of the instrument. It did, however, detect a variation in the temperature of the CMB of a different sort. That the CMB appears to be at a higher temperature on one side of the sky than on the opposite side, referred to as a dipole pattern, has been explained as a Doppler effect of the Earth's motion relative to the area of CMB emission, which is called the last scattering surface. Such a Doppler effect arises because the Sun, and in fact the Milky Way as a whole, is not stationary, but rather is moving at nearly 600 km/s with respect to the last scattering surface. This is probably due to the gravitational attraction between our galaxy and a concentration of mass like the Great Attractor.
+
+
+== Cosmic Background Explorer (COBE) ==
+
+At that time, the CMB appeared to be perfectly uniform excluding the distortion caused by the Doppler effect as mentioned above. This result contradicted observations of the universe, with various structures such as galaxies and galaxy clusters indicating that the universe was relatively heterogeneous on a small scale. However, these structures formed slowly. Thus, if the universe is heterogeneous today, it would have been heterogeneous at the time of the emission of the CMB as well, and observable today through weak variations in the temperature of the CMB. It was the detection of these anisotropies that Smoot was working on in the late 1970s. He then proposed to NASA a project involving a satellite equipped with a detector that was similar to the one mounted on the U-2 but was more sensitive and not influenced by air pollution. The proposal was accepted and incorporated as one of the instruments of the satellite Cosmic Background Explorer (COBE), which cost $160 million. COBE was launched on November 18, 1989, after a delay owing to the destruction of the Space Shuttle Challenger. After more than two years of observation and analysis, the COBE research team announced on April 23, 1992, that the satellite had detected tiny fluctuations in the CMB, a breakthrough in the study of the early universe. The observations were "evidence for the birth of the universe" and led Smoot to say regarding the importance of his discovery that "if you're religious, it's like looking at God."
+
+The success of COBE was the outcome of extensive teamwork involving more than 1,000 researchers, engineers and other participants. John Mather coordinated the entire process and also had primary responsibility for the experiment that revealed the blackbody form of the CMB measured by COBE. Smoot had the main responsibility of measuring the small variations in the temperature of the radiation.
+Smoot collaborated with San Francisco Chronicle journalist Keay Davidson to write the general-audience book Wrinkles in Time, that chronicled his team's efforts. In the book The Very First Light, John Mather and John Boslough complemented and broadened the COBE story, but also suggested that Smoot violated team policy by leaking news of COBE's discoveries to the press before NASA's formal announcement, a leak that, to Mather, smacked of self-promotion and betrayal. Smoot eventually apologized for not following the agreed publicity plan and Mather said tensions eventually eased. Mather acknowledged that Smoot had "brought COBE worldwide publicity" the project might not normally have received.
+
+
+== Other projects ==
+After COBE, Smoot took part in another experiment involving a stratospheric balloon, Millimeter Anisotropy eXperiment IMaging Array, which had improved angular resolution compared to COBE, and refined the measurements of the anisotropies of the CMB. Smoot has continued CMB observations and analysis and was a collaborator on the third generation CMB anisotropy observatory Planck satellite. He was also a collaborator of the design of the Supernova/Acceleration Probe, a satellite which is proposed to measure the properties of dark energy. He has also assisted in analyzing data from the Spitzer Space Telescope in connection with measuring far infrared background radiation.
+Smoot was credited by Mickey Hart with inspiring the album Mysterium Tremendum, which is based, in part on "sounds" that can be extracted from the background signature of the Big Bang.
+Smoot was an artificial intelligence scientist for the GTA Foundation, whose business is storing genomic sequencing data and using it in scientific applications.
+Smoot joined Kazakhstan's National Council for Science and Technology in January 2023.
+
+
+== Media appearances ==
+Smoot had a cameo appearance as himself in "The Terminator Decoupling" episode of The Big Bang Theory. He contacted the show as a fan of their often physics-based plots and was incorporated into an episode featuring him lecturing at a fictional physics symposium. He is also credited by the producer of the show with providing a joke told by Penny in the episode "The Dead Hooker Juxtaposition". He appeared in a later episode, "The Laureate Accumulation", initially broadcast in April 2019.
+On September 18, 2009, Smoot appeared on an episode of the Fox television show Are You Smarter Than a 5th Grader? During filming, he reached the final question, "What US state is home to Acadia National Park?", to which he gave the correct answer "Maine", becoming the second person to win a million-dollar prize.
+On December 10, 2009, he appeared in a BBC interview of Nobel laureates, discussing the value science has to offer society.
+Smoot gave a 2014 TEDx lecture in which he suggested that certain aspects of physics support the simulation hypothesis, the idea that our reality is a computer-generated virtual reality.
+In 2016, Smoot appeared in a television commercial for Intuit TurboTax, advising a user of the software on what to do.
+
+
+== Personal life and death ==
+Smoot died from a heart attack in Paris, on September 18, 2025, at age 80. The Astroparticle and Cosmology Laboratory announced his death on September 25.
+
+
+== Selected publications ==
+Lubin, P. M. & G. F. Smoot.  "Search for Linear Polarization of the Cosmic Background Radiation", Lawrence Berkeley National Laboratory (LBNL), United States Department of Energy, (Oct. 1978).
+Gorenstein, M. V.& G. F. Smoot.  "Large-Angular-Scale Anisotropy in the Cosmic Background Radiation", Lawrence Berkeley National Laboratory (LBNL), United States Department of Energy, (May 1980).
+Smoot, G. F., De Amici, G., Friedman, S. D., Witebsky, C., Mandolesi, N., Partridge, R. B., Sironi, G., Danese, L. & G. De Zotti.  "Low Frequency Measurement of the Spectrum of the Cosmic Background Radiation", Lawrence Berkeley National Laboratory (LBNL), United States Department of Energy, (June 1983).
+Smoot, G. F., De Amici, G., Levin, S. & C. Witebsky.  "New Measurements of the Cosmic Background Radiation Spectrum", Lawrence Berkeley National Laboratory (LBNL), United States Department of Energy, (Dec. 1984).
+Smoot, G., Levin, S. M., Witebsky, C., De Amici, G., Y. Rephaeli.  "An Analysis of Recent Measurements of the Temperature of the Cosmic Microwave Background Radiation", Lawrence Berkeley National Laboratory (LBNL), United States Department of Energy, (July 1987).
+Ade, P., Balbi, A., Bock, J., Borrill, J., Boscaleri, A., de Bernardis, P., Ferreira, P. G., Hanany, S., Hristov, V. V., Jaffe, A. H., Lange, A. E., Lee, A. T., Mauskopf, P. D., Netterfield, C. B., Oh, S., Pascale, E., Rabii, B., Richards, P. L., Smoot, G. F., Stompor, R., Winant, C. D. & J. H. P. Wu.  "MAXIMA-1: A Measurement of the Cosmic Microwave Background Anisotropy on Angular Scales of 10' to 5 degrees", Lawrence Berkeley National Laboratory (LBNL), United States Department of Energy, National Aeronautics and Space Administration (NASA), National Science Foundation (NSF), KDI Precision Products, Inc., Particle Physics and Astronomy Research Council UK, (June 4, 2005).
+Smoot, George; Keay Davidson (1994). Wrinkles in Time. William Morrow & Company. ISBN 0-380-72044-2.
+
+
+== References ==
+
+
+== External links ==
+
+Smoot Group Cosmology official website at the Wayback Machine (archived May 26, 2021) at the Energetic Cosmos Laboratory
+Smoot Group Cosmology official website at the Lawrence Berkeley National Laboratory
+Low gravity phase separator U.S. Patent 4027494
+Nobel Prize announcement
+George Smoot on Nobelprize.org  including the Nobel Lecture December 8, 2006 Cosmic Microwave Background Radiation Anisotropies: Their Discovery and Utilization
+Contemplating the birth of the universe Archived March 13, 2008, at the Wayback Machine
+George Smoot on the design of the universe
+George Smoot at IMDb
+George Smoot chairs the Eutelsat Star Awards
+George Smoot accepts position in Moscow State University
+Pariscosmo.fr Paris Center for Cosmological Physics at APC Laboratory

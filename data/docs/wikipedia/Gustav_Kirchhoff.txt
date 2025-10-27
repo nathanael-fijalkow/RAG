@@ -1,0 +1,143 @@
+Gustav Robert Kirchhoff (German: [ˈgʊstaːf ˈʁoːbɛʁt ˈkɪʁçhɔf]; 12 March 1824 – 17 October 1887) was a German physicist and mathematician who contributed to the fundamental understanding of electrical circuits, spectroscopy, and the emission of black-body radiation by heated objects. He coined the term black body in 1860.
+Several different sets of concepts are named "Kirchhoff's laws" after him, which include Kirchhoff's circuit laws, Kirchhoff's law of thermal radiation, Kirchhoff's diffraction formula, and Kirchhoff's law of thermochemistry.
+The Bunsen–Kirchhoff Award for spectroscopy is named after Kirchhoff and his colleague, Robert Bunsen.
+
+
+== Biography ==
+Gustav Robert Kirchhoff was born on 12 March 1824 in Königsberg, Prussia, the son of Friedrich Kirchhoff, a lawyer, and Johanna Henriette Wittke. His family were Lutherans in the Evangelical Church of Prussia.
+Kirchhoff studied at the University of Königsberg, where he attended the mathematico-physical seminar directed by C. G. J. Jacobi, Franz Ernst Neumann, and Friedrich Julius Richelot. In 1845, while a student, Kirchhoff formulated two circuit laws—which are now ubiquitous in electrical engineering. He completed this study as a seminar exercise; it later became his doctoral thesis, supervised by Neumann.
+In 1847, Kirchhoff graduated from the University of Königsberg and became a Privatdozent (unsalaried lecturer) at the University of Berlin, where he stayed until 1850 when he was offered a professorship at the University of Breslau. In 1854, he was called to the University of Heidelberg, where he collaborated with Robert Bunsen in spectroscopic work. In 1875, Kirchhoff returned to Berlin, where he remained until his death in 1887.
+In 1857, Kirchhoff married Clara Richelot, the daughter of his mathematics professor Richelot; the couple had five children. In 1872, after Clara's death in 1869, he married Luise Brömmel.
+In 1864, Kirchhoff was elected a Member of the American Philosophical Society. In 1884, he became a Foreign Member of the Royal Netherlands Academy of Arts and Sciences.
+Kirchhoff died on 17 October 1887 in Berlin at the age of 63. He is buried at Alter St.-Matthäus-Kirchhof (Old St. Matthew's Cemetery) in Schöneberg, Berlin (just a few meters from the graves of the Brothers Grimm).
+
+
+== Research ==
+ 
+In 1857, Kirchhoff calculated that an electric signal in a resistanceless wire travels along the wire at the speed of light.
+In 1859, Kirchhoff proposed a law of thermal radiation, and gave a proof in 1861. 
+Together, Kirchhoff and Bunsen improved on Joseph von Fraunhofer's 1814 spectroscope, which Kirchhoff used to pioneer the identification of the elements in the Sun, showing in 1859 that the Sun contains sodium. Kirchhoff and Bunsen discovered caesium and rubidium in 1861.
+Kirchhoff contributed greatly to the field of spectroscopy by formalizing three laws that describe the spectral composition of light emitted by incandescent objects, building substantially on the discoveries of David Alter and Anders Jonas Ångström. In 1862, he was awarded the Rumford Medal "for his researches on the fixed lines of the solar spectrum, and on the inversion of the bright lines in the spectra of artificial light".
+Kirchhoff also contributed to optics, carefully solving the wave equation to provide a solid foundation for Huygens' principle (and correct it in the process).
+
+
+=== Kirchhoff's circuit laws ===
+
+Kirchhoff's first law 
+At any node in an electrical circuit where current can branch, the sum of the currents leaving the node is equal to the sum of the currents entering the node. The second law is that the algebraic sum of the potential drops along a closed circuit, taken in any direction of flow, is equal to zero.
+
+
+=== Kirchhoff's three laws of spectroscopy ===
+
+A solid, liquid, or dense gas excited to emit light will radiate at all wavelengths and thus produce a continuous spectrum.
+A low-density gas excited to emit light will do so at specific wavelengths, and this produces an emission spectrum.
+If light composing a continuous spectrum passes through a cool, low-density gas, the result will be an absorption spectrum.
+Kirchhoff did not know about the existence of energy levels in atoms. The existence of discrete spectral lines had been known since Fraunhofer discovered them in 1814. That the lines formed a discrete mathematical pattern was described by Johann Balmer in 1885. Joseph Larmor explained the splitting of the spectral lines in a magnetic field known as the Zeeman Effect by the oscillation of electrons. These discrete spectral lines were not explained as electron transitions until the Bohr model of the atom in 1913, which helped lead to quantum mechanics.
+
+
+=== Kirchhoff's law of thermal radiation ===
+It was Kirchhoff's law of thermal radiation in which he proposed an unknown universal law for radiation that led Max Planck to the discovery of the quantum of action leading to quantum mechanics.
+
+
+=== Kirchhoff's law of thermochemistry ===
+
+Kirchhoff showed in 1858 that, in thermochemistry, the variation of the heat of a chemical reaction is given by the difference in heat capacity between products and reactants:
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  ∂
+                  Δ
+                  H
+                
+                
+                  ∂
+                  T
+                
+              
+            
+            )
+          
+          
+            p
+          
+        
+        =
+        Δ
+        
+          C
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \left({\frac {\partial \Delta H}{\partial T}}\right)_{p}=\Delta C_{p}}
+  
+.
+Integration of this equation permits the evaluation of the heat of reaction at one temperature from measurements at another temperature.
+
+
+=== Kirchhoff's theorem in graph theory ===
+Kirchhoff also worked in the mathematical field of graph theory, in which he proved Kirchhoff's matrix tree theorem.
+
+
+== Works ==
+Gesammelte Abhandlungen (in German). Leipzig: Johann Ambrosius Barth. 1882.
+Vorlesungen über Electricität und Magnetismus (in German). Leipzig: Benedictus Gotthelf Teubner. 1891.
+Vorlesungen über mathematische Physik. 4 vols., B. G. Teubner, Leipzig 1876–1894.
+Vol. 1: Mechanik. 1. Auflage, B. G. Teubner, Leipzig 1876 (online).
+Vol. 2: Mathematische Optik. B. G. Teubner, Leipzig 1891 (Herausgegeben von Kurt Hensel, online).
+Vol. 3: Electricität und Magnetismus. B. G. Teubner, Leipzig 1891 (Herausgegeben von Max Planck, online).
+Vol. 4: Theorie der Wärme. B. G. Teubner, Leipzig 1894, Herausgegeben von Max Planck
+
+
+== See also ==
+Circuit rank
+Computational aeroacoustics
+Flame emission spectroscopy
+Spectroscope
+Kirchhoff Institute of Physics
+List of German inventors and discoverers
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+Warburg, E. (1925). "Zur Erinnerung an Gustav Kirchhoff". Die Naturwissenschaften. 13 (11): 205. Bibcode:1925NW.....13..205W. doi:10.1007/BF01558883. S2CID 30039558.
+Stepanov, B. I. (1977). "Gustav Robert Kirchhoff (on the ninetieth anniversary of his death)". Journal of Applied Spectroscopy. 27 (3): 1099. Bibcode:1977JApSp..27.1099S. doi:10.1007/BF00625887. S2CID 95181496.
+Everest, A. S. (1969). "Kirchhoff-Gustav Robert 1824–1887". Physics Education. 4 (6) 304: 341. Bibcode:1969PhyEd...4..341E. doi:10.1088/0031-9120/4/6/304. S2CID 250765281.
+Kirchhoff, Gustav (1860). "Ueber die Fraunhoferschen Linien". Monatsberichte der Königliche Preussische Akademie der Wissenschaften zu Berlin: 662–665. ISBN 978-1-113-39933-5. {{cite journal}}: ISBN / Date incompatibility (help) HathiTrust full text. Partial English translation available in Magie, William Francis, A Source Book in Physics (1963). Cambridge: Harvard University Press. p. 354-360.
+Kirchhoff, Gustav (1860). “IV. Ueber das Verhältniß zwischen dem Emissionsvermögen und dem Absorptionsvermögen der Körper für Wärme und Licht,” Annalen der Physik 185(2), 275–301. (coinage of term “blackbody”) [On the relationship between the emissivity and the absorptivity of bodies for heat and light]
+
+
+== Further reading ==
+Gustav Kirchhoff at the Mathematics Genealogy Project
+O'Connor, John J.; Robertson, Edmund F., "Gustav Kirchhoff", MacTutor History of Mathematics Archive, University of St Andrews
+Weisstein, Eric Wolfgang (ed.). "Kirchhoff, Gustav (1824–1887)". ScienceWorld.
+Klaus Hentschel: Gustav Robert Kirchhoff und seine Zusammenarbeit mit Robert Wilhelm Bunsen, in: Karl von Meyenn (Hrsg.) Die Grossen Physiker, Munich: Beck, vol. 1 (1997), pp. 416–430, 475–477, 532–534.
+Klaus Hentschel: Mapping the Spectrum. Techniques of Visual Representation in Research and Teaching, Oxford: OUP, 2002.
+Kirchhoff's 1857 paper on the speed of electrical signals in a wire
+ Texts on Wikisource:
+"Kirchhoff, Gustav Robert". Encyclopedia Americana. 1920.
+"Kirchhoff, Gustav Robert". The New Student's Reference Work. 1914.
+"Kirchhoff, Gustav Robert". Encyclopædia Britannica (11th ed.). 1911.
+"Kirchhoff, Gustav Robert". New International Encyclopedia. 1905.
+"Sketch of Gustav Robert Kirchhoff". Popular Science Monthly. Vol. 33. May 1888.
+"Kirchhoff, Gustav Robert". The American Cyclopædia. 1879.
+
+
+== External links ==
+ Quotations related to Gustav Kirchhoff at Wikiquote
+ Media related to Gustav Robert Kirchhoff at Wikimedia Commons
+Open Library
