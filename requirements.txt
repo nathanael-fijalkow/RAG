@@ -1,0 +1,34 @@
+# Core dependencies
+chromadb>=1.0.0
+python-dotenv>=1.0.0
+google-generativeai>=0.8.0
+
+# Document processing
+pypdf>=5.0.0
+
+# HTTP and utilities
+requests>=2.32.0
+tenacity>=9.0.0
+typer>=0.12.0
+rich>=13.9.0
+
+# ML and embeddings
+numpy>=1.26.0,<2.0.0
+sentence-transformers>=3.0.0
+huggingface-hub>=0.20.0
+tokenizers>=0.19.0
+
+# Retrieval
+rank-bm25>=0.2.2
+
+# Agentic workflows
+langgraph>=0.2.39
+
+# Evaluation
+ragas>=0.2.0
+datasets>=2.19.0
+evaluate>=0.4.1
+
+# Web search
+ddgs>=5.0.0
+
