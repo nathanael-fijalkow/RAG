@@ -38,7 +38,13 @@ class LLM:
         client = InferenceClient(
             model=self.settings.hf_llm_model,
         )
-        response_text = client.text_generation(
-            prompt=prompt
-        )
-        return response_text.strip()
+        messages = []    
+        # Add the system prompt first, if provided
+        if system:
+            messages.append({"role": "system", "content": system})
+    
+        # Add the user prompt
+        messages.append({"role": "user", "content": prompt})
+        response = client.chat(messages=messages)
+
+        return response.content.strip()
