@@ -24,10 +24,34 @@ def decide(state: Dict[str, Any]) -> str:
 
 def node_retrieve(state: Dict[str, Any]) -> Dict[str, Any]:
     rag: RAG = state["rag"]
-    docs, metas = rag.retrieve(state["question"], top_k=6, use_mmr=True)
-    answer = rag.answer(state["question"], docs, metas)
-    return {**state, "answer": answer, "sources": metas, "docs": docs}
+    docs, sources = rag.retrieve(state["question"], top_k=6, use_mmr=True)
+    answer = rag.answer(state["question"], docs, sources)
+    # return {**state, "answer": answer, "sources": metas, "docs": docs}
 
+    # Verify the accuracy of the retrieved answer against the documents 
+    # verification_prompt = f"Here is the question: {state['question']}\nGiven the following documents, verify the accuracy of this answer:\n\nAnswer: {answer}\n\nDocuments:\n"
+    # for i, doc in enumerate(docs, 1):
+    #     verification_prompt += f"[{i}] {doc}\n"
+    # verification_prompt += "\nIs the answer accurate based on the documents? Reply with 'yes' or 'no' and provide a brief explanation."
+    # verification = rag.llm.generate(verification_prompt, system="You verify the accuracy of an answer based on provided documents.")
+
+    # Verify whether the answer answers the question
+    verification_prompt = f"Here is the question: {state['question']}\n\nAnswer: {answer}"
+    verification_prompt += "\nDoes the answer accurately address the question? Reply with 'yes' or 'no' and provide a brief explanation. If the answer is 'I don't know', consider that as inaccurate."
+    verification = rag.llm.generate(verification_prompt, system="You verify the accuracy of an answer.")
+
+    if "yes" in verification.lower():
+        return {**state, "answer": answer, "sources": sources, "docs": docs, "done": True}
+    else:
+        if state["retry"] >= 2:
+            return {**state, "answer": "FAILURE", "sources": sources, "docs": docs, "done": True}
+    prompt = f"Generate a new formulation for the question to use as a retrieval query.\nQuestion: {state['question']}"
+    new_question = rag.llm.generate(prompt, system="You reformulate questions for retrieval use in case the retrieved answer was inaccurate. You provide a single, clear question, without any preamble.")
+    print(f"\n\nReformulated question for retry: {new_question}\n\n")
+    return {**state, "question": new_question, "retry": state["retry"] + 1, "done": False}
+
+def check(state: Dict[str, Any]) -> str:
+    return "true" if state["done"] else "false"
 
 def node_synth(state: Dict[str, Any]) -> Dict[str, Any]:
     rag: RAG = state["rag"]
@@ -92,7 +116,6 @@ def node_web(state: Dict[str, Any]) -> Dict[str, Any]:
     metas = [{"source": r["href"], "page": "web"} for r in results]
     return {**state, "answer": answer, "sources": metas, "docs": results}
 
-
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--question", required=True)
@@ -116,19 +139,29 @@ def main():
             "web": "web"
         }
     )
-    sg.add_edge("retrieve", END)
+
     sg.add_edge("synth", END)
     sg.add_edge("web", END)
+
+    sg.add_conditional_edges(
+        "retrieve",
+        check,
+        {
+            "true": END,
+            "false": "retrieve",
+        }
+    )
+
     graph = sg.compile()
 
-    out = graph.invoke({"question": args.question, "rag": rag})
+    out = graph.invoke({"question": args.question, "rag": rag, "retry": 0, "done": False})
     print("\n[bold]Answer[/bold]\n")
-    print(out.get("answer", ""))
+    print(out["answer"], "")
     print("\n[bold]Sources[/bold]")
-    for i, md in enumerate(out.get("sources", []), 1):
-        doc_text = out.get("docs", [])[i - 1]
+    for i, md in enumerate(out["sources"], 1):
+        doc_text = out["docs"][i - 1]
         excerpt = (doc_text[:200] + "...") if len(doc_text) > 200 else doc_text
-        print(f"[{i}] {md.get('source')}#page={md.get('page')}\n> {excerpt}")
+        print(f"[{i}] {md['source']}#page={md['page']}\n> {excerpt}")
 
 if __name__ == "__main__":
     main()

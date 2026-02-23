@@ -165,7 +165,7 @@ def main():
         answer_relevancy,
         faithfulness,
     )
-    metrics = [context_precision, answer_relevancy, faithfulness]
+    metrics = [context_precision, context_recall, answer_relevancy, faithfulness]
     if "ground_truth" in ds.column_names:
         metrics.append(context_recall)  # recall needs ground_truth
         try:

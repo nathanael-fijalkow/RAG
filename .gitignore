@@ -2,3 +2,5 @@
 /.venv
 /.vscode
 /data
+.DS_Store
+src/__pycache__
