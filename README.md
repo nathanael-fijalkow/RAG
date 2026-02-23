@@ -16,7 +16,7 @@ Uses either Gemini API or Hugging Face Inference API for the LLM. Embeddings run
 - For Gemini:
   - `LLM_PROVIDER=gemini`
   - `GEMINI_API_KEY=...`
-  - `GEMINI_MODEL=gemini-1.5-pro` (default)
+  - `GEMINI_MODEL=gemini-2.5-flash` (default)
 
 - For Hugging Face Inference API:
   - `LLM_PROVIDER=huggingface`
@@ -51,7 +51,7 @@ Three chunking strategies available:
 - Fast and predictable, good for general use
 
 ```bash
-python scripts/index_docs.py --chunking fixed --persist .chroma
+python scripts/index_docs.py --chunking fixed --folder data/docs/wiki_finewiki_en --persist .chroma
 ```
 
 ### Recursive Chunking
@@ -61,7 +61,7 @@ python scripts/index_docs.py --chunking fixed --persist .chroma
 - Better preserves semantic boundaries
 
 ```bash
-python scripts/index_docs.py --chunking recursive --persist .chroma
+python scripts/index_docs.py --chunking recursive --folder data/docs/wiki_finewiki_en --persist .chroma
 ```
 
 ### Semantic Chunking
@@ -75,7 +75,7 @@ python scripts/index_docs.py --chunking recursive --persist .chroma
 - Best for structured documents (Wikipedia, FineWiki, technical docs)
 
 ```bash
-python scripts/index_docs.py --chunking semantic --persist .chroma
+python scripts/index_docs.py --chunking semantic --folder data/docs/wiki_finewiki_en --persist .chroma
 ```
 
 **Note:** Indexing automatically creates both vector (Chroma) and BM25 (keyword) indices for hybrid retrieval.
@@ -188,9 +188,9 @@ Notes:
 
 ### Data Sources
 
-- Wikipedia page extraction
-- Internet Archive (curated public-domain PDFs and texts)
-- Custom document upload to `data/docs/`
+- Wikipedia page extraction (`extraction_wikipedia.py`)
+- FineWiki Hugging Face dataset (`download_wiki_dataset.py`)
+- Custom documents (PDF, TXT, MD) in `data/docs/`
 
 ## Installation
 
@@ -219,8 +219,8 @@ Copy `.env.example` to `.env` and set your keys.
   - `tools.py` - Web search tools
   - `config.py` - Configuration management
 - `scripts/` runnable scripts to showcase steps
-  - `download_sample_data.py` - Download from Internet Archive
   - `extraction_wikipedia.py` - Extract Wikipedia pages
+  - `download_wiki_dataset.py` - Download FineWiki dataset from Hugging Face
   - `index_docs.py` - Index documents with chosen chunking strategy
   - `inspect_chroma.py` - Inspect database contents and statistics
   - `query_basic.py` - Basic RAG query
@@ -229,7 +229,6 @@ Copy `.env.example` to `.env` and set your keys.
   - `query_hybrid.py` - Query with different retrieval modes
   - `compare_retrieval.py` - Compare vector/BM25/hybrid retrieval
   - `eval_ragas.py` - Evaluate RAG quality with RAGAS metrics
-  - `compare_chunking.py` - Compare chunking strategies
 - `data/docs/` documents to index
 - `.chroma/` local vector DB persistence (created after indexing)
   - `chroma.sqlite3` - Vector store database
@@ -259,21 +258,21 @@ python scripts/download_wiki_dataset.py
 python scripts/index_docs.py [OPTIONS]
 
 Options:
-  --folder PATH           Path to documents folder (default: data/docs)
+  --folder PATH           Path to documents folder (default: data/docs/wiki_finewiki_en)
   --chunking STRATEGY     Chunking strategy: fixed, recursive, semantic (default: fixed)
   --persist PATH          Chroma persistence directory (default: .chroma)
 ```
 
 **Examples:**
 ```bash
-# Index with fixed chunking
+# Index FineWiki with fixed chunking (default folder)
 python scripts/index_docs.py --chunking fixed
 
 # Index with semantic chunking (adds context headers and LLM summaries)
 python scripts/index_docs.py --chunking semantic
 
-# Index custom folder
-python scripts/index_docs.py --folder my_docs --chunking recursive
+# Index a custom folder
+python scripts/index_docs.py --folder data/docs/wikipedia --chunking recursive
 ```
 
 ### Query Options
@@ -381,5 +380,4 @@ Options:
 ### Web search notes
 
 - DuckDuckGo can rate limit frequent queries. If you momentarily get 0 results, wait a few seconds and retry.
-- You may see a warning: "This package (duckduckgo_search) has been renamed to ddgs". The current dependency works; optionally install `ddgs`.
 - The code automatically simplifies very long or question-like queries to improve result quality.

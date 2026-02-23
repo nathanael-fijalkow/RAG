@@ -2,7 +2,7 @@ from __future__ import annotations
 import os
 from typing import Dict, List, Optional
 
-import google.generativeai as genai
+import google.genai as genai
 from huggingface_hub import InferenceClient
 
 from .config import get_settings
