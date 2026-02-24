@@ -2,7 +2,8 @@ from __future__ import annotations
 import os
 from typing import Dict, List, Optional
 
-import google.genai as genai
+from google import genai
+from google.genai import types
 from huggingface_hub import InferenceClient
 
 from .config import get_settings
@@ -23,13 +24,14 @@ class LLM:
         api_key = self.settings.gemini_api_key
         if not api_key:
             raise RuntimeError("GEMINI_API_KEY not set")
-        
-        genai.configure(api_key=api_key)
-        model = genai.GenerativeModel(
-            model_name=self.settings.gemini_model,
-            system_instruction=system
+
+        client = genai.Client(api_key=api_key)
+        config = types.GenerateContentConfig(system_instruction=system) if system else None
+        response = client.models.generate_content(
+            model=self.settings.gemini_model,
+            contents=prompt,
+            config=config,
         )
-        response = model.generate_content(prompt)
         return response.text.strip()
 
     def _hf_generate(self, prompt: str, system: Optional[str]) -> str:

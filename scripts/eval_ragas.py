@@ -159,17 +159,17 @@ def main():
     ds = Dataset.from_dict(records)
 
     # Select metrics for RAGAS 0.3+
-    from ragas.metrics import (
+    from ragas.metrics.collections import (
         context_precision,
         context_recall,
         answer_relevancy,
         faithfulness,
     )
-    metrics = [context_precision, context_recall, answer_relevancy, faithfulness]
-    if "ground_truth" in ds.column_names:
-        metrics.append(context_recall)  # recall needs ground_truth
+    metrics = [context_precision, answer_relevancy, faithfulness]
+    if "reference" in ds.column_names:
+        metrics.append(context_recall)  # recall needs reference
         try:
-            from ragas.metrics import answer_correctness  # may not be available in all versions
+            from ragas.metrics.collections import answer_correctness  # may not be available in all versions
             metrics.append(answer_correctness)
         except Exception:
             pass
